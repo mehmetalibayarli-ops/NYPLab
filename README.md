@@ -8,3 +8,4 @@ Bu depo, Nesne Yönelimli Programlama dersi kapsamında C# (.NET 10.0) kullanıl
 | :--- | :--- |
 | **NYPLab_2026_11_17** | Association, Aggregation, Composition ilişkileri. |
 | **NYPLab_2026_11_24** | Solid prensipleri. |
+| **NYPLab_Proje** | Lab'da geliştirdiğimiz proje. |
